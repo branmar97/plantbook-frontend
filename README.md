@@ -21,4 +21,3 @@ Bug reports and pull requests are welcome on Github at https://github.com/branma
 ## License
 
 Available as open source under the terms of the MIT license.
-
